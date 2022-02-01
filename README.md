@@ -13,5 +13,5 @@
 ## Data
 VENµS tiles can be dowloaded on https://theia.cnes.fr/atdistrib/rocket/#/search?collection=VENUS. To automatically download Theia products, please use the code developed by @olivierhagolle here: https://github.com/olivierhagolle/theia_download
 
-## Citation
+## Quote
 If using this script, please cite: Z. Bessin, J.P. Dedieu, Y. Arnaud, P. Wagnon, F. Brun, M. Esteves, L. B. Perry, T. Matthews, "Processing of VENµS Images in High Mountain: A Case Study for Cryospheric and Hydro-Climatic applications in the Everest Region (Nepal)", Remote Sensing, under review.
